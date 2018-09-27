@@ -13,6 +13,7 @@ int num[100]; //the set of numbers (Array)
 int main()
 {
 	int opt1, opt2,i;
+	printf("\t\t\t\tSorterPlus\n\n");
 	do
 	{
 		//Menu to select the sorting method and the sorting order
