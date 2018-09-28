@@ -43,6 +43,8 @@ int main()
 		case 4:
 	    		printf("\nThank you for using SorterPlus! Have a nice day!\n");
 	    		break;
+		default:
+	    		printf("\nInvalid option!!!\n");
 		}
 	}
 	while(opt1!=4 && opt2!=3);
