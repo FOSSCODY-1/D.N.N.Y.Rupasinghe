@@ -16,8 +16,8 @@ int main()
 	printf("\t\t\t\tSorterPlus\n\n");
 	do
 	{
-		//Menu to select the sorting method and the sorting order
-		printf("\n***Please select the sorting method***\n");
+	    //Menu to select the sorting method and the sorting order
+	    printf("\n***Please select the sorting method***\n");
 	    printf("1. Insertion Sort\n");
 	    printf("2. Selection Sort\n");
 	    printf("3. Bubble Sort\n");
