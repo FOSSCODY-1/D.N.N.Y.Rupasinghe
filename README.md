@@ -15,6 +15,7 @@ Supported sorting methods are,
 
 #### SETUP AND INSTALLATION -
 You should have a standard c compiler (e.g.:- Dev C++) installed in your machine.
+
 Download main2.c file and run it. CLI of the software will open up and you are ready to go. 
 
 
