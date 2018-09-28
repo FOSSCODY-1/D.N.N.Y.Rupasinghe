@@ -1,9 +1,9 @@
 # D.N.N.Y.Rupasinghe
 
-PRODUCT NAME - SorterPlus
+# PRODUCT NAME - SorterPlus
 
 
-PROJECT DESCRIPTION -
+# PROJECT DESCRIPTION -
 
 SorterPlus is a software which can sort an inserted set of numbers in ascending or descending order using 3 different sorting methods. 
 SorterPlus will provide a step by step visualization of how the sorting is done according to the selected sorting method.
@@ -13,12 +13,12 @@ Supported sorting methods are,
 3. Bubble sort 
 
 
-SETUP AND INSTALLATION -
+# SETUP AND INSTALLATION -
 
 Download main2.c file and run it. CLI of the software will open up and you are ready to go. 
 
 
-GUIDE TO USE THE SOFTWARE -
+# GUIDE TO USE THE SOFTWARE -
 
 First, there will be a menu (This menu will pop up until you choose to exit from the program) to choose the sorting method (1. Insertion sort 2. Selection sort 3. Bubble sort) and the sorting order (1. Ascending order 2. Descending order). 
 
@@ -30,7 +30,7 @@ Then the user will have to insert the set of numbers he/she wants to sort. (e.g.
 
 Then the software will output the step by step visualization and the sorted set of numbers as the final output according to the selected sorting method and sorting order.
 
-SCREENSHOTS OF SorterPlus
+# SCREENSHOTS OF SorterPlus
 
 ![insertion asc](https://user-images.githubusercontent.com/43142832/46205372-f83d7a00-c33d-11e8-97ec-3a45c9c224ea.JPG)
 
