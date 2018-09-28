@@ -40,6 +40,9 @@ int main()
 	    	case 3:
 	    		bubble_sort(&opt2);
 	    		break;
+		case 4:
+	    		printf("\nThank you for using SorterPlus! Have a nice day!\n");
+	    		break;
 		}
 	}
 	while(opt1!=4 && opt2!=3);
