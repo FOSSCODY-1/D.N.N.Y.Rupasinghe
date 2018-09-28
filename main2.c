@@ -26,7 +26,7 @@ int main()
 	    printf("1. Ascending\n");
 	    printf("2. Descending\n");
 	    printf("3. Exit\n");
-	    printf("\nPlese enter the sorting method and order seperated by a space:");
+	    printf("\nPlease enter the sorting method and order seperated by a space:");
 	    scanf("%d %d",&opt1,&opt2);
 	    
 	    switch(opt1) //switch to perform the actions according to the user's selected option(opt1)
