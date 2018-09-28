@@ -83,15 +83,15 @@ int insertion_sort(int *flag)
 		    for(j=i;j>0 && temp<num[j-1];j--) 
 		    {
 		    	num[j]=num[j-1];
-			}
-	    }
+		    }
+	        }
 		else if(*flag==2) //*flag=opt2=2 -> Descending order
 		{
 		for(j=i;j>0 && temp>num[j-1];j--)
 		    {
 			    num[j]=num[j-1];
 		    }
-	    }
+	        }
 	    else 
 	    printf("\nInvalid option!!!");
 		
@@ -213,16 +213,16 @@ int bubble_sort(int *flag)
 			    {
 				    temp=num[j-1];
 				    num[j-1]=num[j];
-					num[j]=temp;
-				}
-		    }
-		    else if(*flag==2) //*flag=opt2=2 -> Descending order
-		    {
+				    num[j]=temp;
+			    }
+		        }
+		        else if(*flag==2) //*flag=opt2=2 -> Descending order
+		        {
 		    	if(num[j]>num[j-1])
-			    {
+			        {
 				    temp=num[j-1];
 				    num[j-1]=num[j];
-					num[j]=temp;
+				    num[j]=temp;
 				}
 			}
 			else
