@@ -45,7 +45,7 @@ int main()
 	    		break;
 		default:
 	    		printf("\nInvalid option!!!\n");
-		}
+	     }
 	}
 	while(opt1!=4 && opt2!=3);
 	return 0;
