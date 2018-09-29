@@ -41,3 +41,6 @@ Then the software will output the step by step visualization and the sorted set 
 
 ![exit](https://user-images.githubusercontent.com/43142832/46205455-43f02380-c33e-11e8-82c5-00a862510a23.JPG)
 
+#### LICENSE
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
